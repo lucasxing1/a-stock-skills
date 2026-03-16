@@ -1,6 +1,6 @@
 ---
 name: a-stock
-description: 🤖 OpenClaw专用 | A股智投大师 | A股智能投研助手 | 行情分析 | 基本面分析 | 智能选股 | 自选股管理 | 监控预警
+description: 🤖 OpenClaw Skill /skills | A股智投大师 | A股智能投研助手 | 行情分析 | 基本面分析 | 智能选股 | 自选股管理 | 监控预警 | AI Agent | 量化投资 | 金融科技 | FinTech
 metadata:
   {
     "openclaw":

@@ -1,6 +1,8 @@
-# 📈 A股智投大师 (A-Stock)
+# 📈 A股智投大师 (A-Stock) /skills
 
-> 专注于A股市场的智能投研助手
+> 专注于A股市场的智能投研助手 | 🤖 支持 OpenClaw | AI Agent
+
+**关键词**：OpenClaw Skill, AI Agent, A股, 股票, 智投, 量化投资, 金融科技, FinTech, 行情分析, 基本面, 选股, 自选股, 监控预警, 智能投研
 
 ![Version](https://img.shields.io/badge/version-1.0.1-blue)
 ![Platform](https://img.shields.io/badge/platform-OpenClaw-green)
