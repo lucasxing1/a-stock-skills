@@ -171,8 +171,12 @@ clawhub install a-stock@1.0.1
 
 ## 🌐 相关资源
 
-- **GitHub**: https://github.com/lucasxing1/a-stock
+- **GitHub**: https://github.com/lucasxing1/a-stock/skill
 - **ClawHub**: https://clawhub.com/skills/a-stock
+
+---
+
+> 🤖 本Skill为 **OpenClaw** 设计
 
 ---
 
